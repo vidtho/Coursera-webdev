@@ -3,11 +3,15 @@
 
 This repository contains my solutions to the Module - 2, 3, 4 Coding Assignments for the course HTML, CSS, JavaScript for Web Developers by Johns Hopkins University on Coursera. 
 
+-  Assignment 2: [Assignment 2 solution](https://vidtho.github.io/Coursera-webdev/mod2-solution/)
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/vidtho/Coursera-webdev/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+
+
 
 ### Markdown
 
