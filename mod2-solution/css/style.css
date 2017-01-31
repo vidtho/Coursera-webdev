@@ -1,5 +1,6 @@
 body {
-	font-family: "Comic Sans MS", cursive, sans-serif;
+	font-family: "Comic Sans MS", cursive, sans-serif;  
+  background: url(../images/bk2.png);
 }
 
 h1 {
