@@ -1,5 +1,4 @@
-// NOTE! The steps in this file are basically identical to the ones you
-// performed in the SpeakHello.js file.
+// IIFE to create function that displays "Good Bye" + " " + "name". name will be passed as arguement.
 
 (function(window){
 	var byeSpeaker = {};
