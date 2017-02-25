@@ -18,6 +18,6 @@ Variation of original website development taught in coursera course
 -  Copyright shows the current year.
 -  Assignment 5 incorporated [ Specials will display random menu category].
 -  Dynamically load *Awards* and *About* pages using AJAX.
--  Menu-categories and Single menu-item populated from local JSON files.
+-  *Menu-categories* and *Single menu-item* populated from local JSON files.
 -  Change look and feel of website using CSS properties.
 -  Change Menu icons and menu font-weight.
