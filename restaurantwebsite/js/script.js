@@ -77,7 +77,7 @@ function buildAndShowHomeHTML (categories) {
      var homeHtmlToInsertIntoMainPage = insertProperty(homeHtml, "randomCategoryShortName", "'" + chosenCategoryShortName + "'");
      insertHtml("#main-content", homeHtmlToInsertIntoMainPage);
     },
-    false); // False here because we are getting just regular HTML from the server, so no need to process JSON.
+    false); 
 }
 
 //~~~~~~~~~~~~EVENT THAT WILL LOAD THE HOME PAGE ~~~~~~~~~~~~~~~~~~//
