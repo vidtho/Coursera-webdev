@@ -1,4 +1,4 @@
-# Repository for Coursera Web Development course
+# Coursera Web Development course Repository
 **HTML, CSS, JavaScript for Web Developers by Johns Hopkins University**
 
 ## Assignments
