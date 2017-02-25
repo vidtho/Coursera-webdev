@@ -1,7 +1,7 @@
 Variations Added:
-1. Copyright shows the current year.
-2. Assignment 5 incorporated [ Specials will display random menu category].
-3. Populate Awards and About page dynamically using AJAX calls.
-4. Menu-categories and Single menu-item are populated from local JSON files.
-5. Change look and feel of website using CSS properties.
-6. Change Menu icons and menu font-weight.
+-  Copyright shows the current year.
+-  Assignment 5 incorporated [ Specials will display random menu category].
+-  Dynamically load Awards and About pages using AJAX.
+-  Menu-categories and Single menu-item populated from local JSON files.
+-  Change look and feel of website using CSS properties.
+-  Change Menu icons and menu font-weight.
