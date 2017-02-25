@@ -85,6 +85,7 @@ function buildAndShowHomeHTML (categories) {
 document.addEventListener("DOMContentLoaded", function (event) {
 
 showLoading("#main-content");
+// $ajaxUtils.sendGetRequest(homeHtml, function (responseText) {document.querySelector("#main-content").innerHTML = responseText;}, false);
 $ajaxUtils.sendGetRequest(allCategoriesUrl, buildAndShowHomeHTML, true); 
 cprightYear("#copyright");
 });
