@@ -10,13 +10,13 @@ Solutions to Coding Assignments during the course.
 -  Assignment 5: 	[Assignment 5 solution](https://vidtho.github.io/Coursera-webdev/mod5-solution/)
 
 ## David Chu's China Bistro - Mock Restaurant Website
-### [David Chu's China Bistro 1](https://vidtho.github.io/Coursera-webdev/restaurantwebsite/) : HTML5, CSS3, Javascript, AJAX
-### [David Chu's China Bistro 2](https://vidtho.github.io/Coursera-webdev/restaurantwebsite2/) : HTML5, CSS3, Javascript, JQuery, AJAX
+-  [David Chu's China Bistro 1](https://vidtho.github.io/Coursera-webdev/restaurantwebsite/) : HTML5, CSS3, Javascript, AJAX
+-  [David Chu's China Bistro 2](https://vidtho.github.io/Coursera-webdev/restaurantwebsite2/) : HTML5, CSS3, Javascript, JQuery, AJAX
 
-Variation of original website development taught in coursera course
 
 
 **Variations Added:**
+
 David Chu's China Bistro 1
 -  Copyright shows the current year.
 -  Assignment 5 incorporated [ Specials will display random menu category].
@@ -26,4 +26,5 @@ David Chu's China Bistro 1
 -  Change Menu icons and menu font-weight.
 
 David Chu's China Bistro 2
+-  Same as 1
 -  Dynamic pages load using JQuery
